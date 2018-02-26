@@ -1,0 +1,6 @@
+print("You arrive at two paths, one going left and the other going right")
+Choice1 = input("which path do you choose?")
+if Choice1 = "Left" or "left":
+  print("You decide to play it safe and walk down the left path...everything seems fine until all of a sudden you hear a man yell 'HALT!'. \n You turn around and see two men holding you at gun point.
+elif Choice1 = "Right" or "Left":
+  
