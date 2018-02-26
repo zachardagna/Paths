@@ -1,0 +1,2 @@
+# Paths
+terminal style game 
